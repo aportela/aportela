@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey You! 📢
 
 <!--
 **aportela/aportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Happy Pixel GIF by SMOL](https://github.com/aportela/aportela/assets/705838/d61d3c67-556f-4716-bcce-07c0891d267a)
