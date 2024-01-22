@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- IMG credits: https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094 -->
-<img align="right" _height="171" _width="240" alt="Happy Pixel GIF by SMOL" src="img/happy_pixel_by_smol.gif" />
+<img align="right" height="342" width="480" alt="Happy Pixel GIF by SMOL" src="img/happy_pixel_by_smol-optimized.gif" />
 
 Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer from Spain.
 
