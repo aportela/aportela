@@ -49,6 +49,17 @@ Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer fr
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white">
 </p>
 
+**Frameworks**
+
+<p>
+    <img src="https://img.shields.io/badge/PHP-Slim-719E40?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%2Fwww.slimframework.com%2F">
+    <img src="https://img.shields.io/badge/JS-Vue-42b883?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%vuejs.org%2F">
+    <img src="https://img.shields.io/badge/JS-Quasar-00b4ff?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%quasar.dev%2F">
+    <img src="https://img.shields.io/badge/JS-Astro-00b4ff?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fwithastro%2Fastro%2F">
+    <img src="https://img.shields.io/badge/CSS-BootStrap-7110f5?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%2Fgetbootstrap.com%2F">
+    <img src="https://img.shields.io/badge/CSS-Bulma-00d1b2?style=flat-square&logo=Framework&logoColor=white&link=https%3A%2F%2Fbulma.io%2F">
+</p>
+
 **Version control / Environments**
 
 <p>
