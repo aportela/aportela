@@ -43,8 +43,7 @@ Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer fr
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black">
     <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white
-    ">
+    <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white">
