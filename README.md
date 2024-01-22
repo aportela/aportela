@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- IMG credits: https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094 -->
 <img align="right" height="342" width="480" alt="Happy Pixel GIF by SMOL" src="img/happy_pixel_by_smol-optimized.gif" />
 
 Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer from Spain.
 
-- 📫 Conctact: [Gmail](mailto:766f6964+github@gmail.com)
-
-- 👨‍💻 Recruit: [LinkedIn](https://www.linkedin.com/in/alejandro-portela/)
+- 📫 Contact: [Gmail](mailto:766f6964+github@gmail.com)
 
 - 📚 Read: [Github Pages](https://aportela.github.io/)
 
-<br>
+- 👨‍💻 Recruit: [LinkedIn](https://www.linkedin.com/in/alejandro-portela/)
 
 **Daily stuff**
 
