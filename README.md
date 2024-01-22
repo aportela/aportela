@@ -73,7 +73,10 @@ Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer fr
 **Tools:**
 
 <p>
+    <img src="https://img.shields.io/badge/Shell-000000?style=flat-square&logo=Gnome-Terminal&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white">
+    <img src="https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-1d63ed.svg?style=flat-square&logo=Docker&logoColor=white">
 </p>
 
 ---
