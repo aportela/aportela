@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" _height="171" _width="240" alt="GIF" src="https://github.com/aportela/aportela/assets/705838/d61d3c67-556f-4716-bcce-07c0891d267a" />
+<!-- IMG credits: https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094 -->
+<img align="right" _height="171" _width="240" alt="Happy Pixel GIF by SMOL" src="img/happy_pixel_by_smol.gif" />
 
 Hi, I'm [Alejandro Portela](https://aportela.github.io//), sysadmin/developer from Spain.
 
